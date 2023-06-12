@@ -4,7 +4,7 @@
 - Summer 2023
 - Assignment 1
 - **Deadline:** 11 Jun 23:00
-- **Student Name Surname ID:** NEEDS TO BE UPDATED
+- **Student Name Surname ID:** Elnara Mammadli 12293
 
 ---
 
@@ -86,4 +86,4 @@ let vertices = pixelToClip2D([
 
 Copy paste the code from `04_pixelToClip`. This time, your goal is to deal with [event listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener). 
 
-Initially, the canvas should be empty (only cleared with black background). A user will click on three points on the canvas -- that will be your triangle vertex coordinates. Upon the third click, you should render a random colored triangle along these vertices (here you will reap the benefit of `pixelToClip2D()` function). You will get an extra point, if every third click will render a new triangle on the canvas.
+Initially, the canvas should be empty (only cleared with black background). A user will click on three points on the canvas -- that will be your triangle vertex coordinates. Upon the third click, you should render a random colored triangle along these vertices (here you will reap the benefit of `pixelToClip2D()` function). You will get an extra point, if every third click will render a new triangle on the canvas.\
